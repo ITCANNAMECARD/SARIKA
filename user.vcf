@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Biswal;Nirmalya;;;
-FN: Nirmalya Biswal
+N:Krishnakumar;Sarika;;;
+FN: Sarika Krishnakumar
 ORG:ITCAN;
 TITLE:Recruitment Consultant
-EMAIL;type=INTERNET;type=WORK;type=pref:nirmalya@itcan.biz
-TEL;type=WORK;type=VOICE:+65 9144 7191
+EMAIL;type=INTERNET;type=WORK;type=pref:sarika@itcan.biz
+TEL;type=WORK;type=VOICE:+65 9391 3389
 item1.ADR;type=WORK;type=pref:;;30 Cecil Street\, #18-08;;;049712;Singapore
 item1.X-ABADR:sg
 item2.URL;type=pref:www.itcan.biz
